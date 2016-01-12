@@ -84,7 +84,7 @@ Type: `String` [top-left|top-right|bottom-left|bottom-right]
 Type: `Object`
 
 ```js
-myToast.set_config({
+myToast.setConfig({
     lang: {
         "ok": "확인"
     }
